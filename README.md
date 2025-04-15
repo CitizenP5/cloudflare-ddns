@@ -428,10 +428,7 @@ docker run -d timothyjmiller/cloudflare_ddns:latest
 
 This Template is licensed under the GNU General Public License, version 3 (GPLv3).
 
-## Author
+## Author/Creator-Edits
 
 Timothy Miller
-
-[View my GitHub profile 💡](https://github.com/timothymiller)
-
-[View my personal website 💻](https://timknowsbest.com)
+Edit by Citizen.P
